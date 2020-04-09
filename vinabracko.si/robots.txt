@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: http://vinabracko.si/sitemap.xml
